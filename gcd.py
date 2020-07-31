@@ -1,4 +1,4 @@
-# to calculate the gcd of two numbers using recursion
+# To calculate the gcd of two numbers using recursion
 def gcd(m,n):
   fm=[]
   for i in range(1,m+1):
